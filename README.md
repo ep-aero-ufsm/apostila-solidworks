@@ -17,3 +17,6 @@ Apostila desenvolvida pela **EP Aero**, por **Bernardo E. Recktenvald** e **Migu
 
 ## Como usar
 Baixe o repositório ou clone via git:
+
+```bash
+git clone https://github.com/ep-aero-ufsm/apostila-solidworks.git
