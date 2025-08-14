@@ -1,6 +1,6 @@
 # Apostila de Introdução ao SolidWorks
 
-Repositório com uma apostila básica para iniciantes aprenderem **SolidWorks**, desde a modelagem de peças até montagem e desenhos técnicos.  
+Repositório com uma apostila básica de **SolidWorks**, modelagem de peças, montagem e desenhos técnicos.  
 Apostila desenvolvida pela **EP Aero**, por **Bernardo E. Recktenvald** e **Miguel Daehn Ribeiro**.
 
 ## Conteúdo
